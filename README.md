@@ -1,6 +1,8 @@
 # HyperLine Robotics V3 - Line Follower Robot
 
-![HyperLine Robotics V3](/media/photos/full_robot1.jpg)
+<p align="center">
+  <img src="/media/photos/full_robot2.jpg" alt="HyperLine Robotics V3" width="600">
+</p>
 
 ## 🚀 About the Project
 The **HyperLine Robotics V3** is a high-speed **line follower robot** designed for top performance in competitions. This version is **fully optimized** for speed and precision without using any additional downforce, featuring:
@@ -8,24 +10,50 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
 - **JSumo ProFast Motors** for ultra-fast movement
 - **Custom 16-sensor array** for accurate line detection
 - **Custom chassis PCB**, designed for maximum efficiency
-- **Custom silicone wheels**, custom printed wheel with 40mm wide silicone
+- **Custom silicone wheels**, custom printed wheel with **40mm wide silicone**
 - **No additional downforce** – no EDF or impeller used
 
 ---
 
 ## 🔧 Components Used
-| Component              | Description | Image |
-|------------------------|------------|-------|
-| **JSumo XMotion**      | Motor control & processing unit | ![XMotion]([https://your-github-link.com/path-to-xmotion-image.jpg](https://www.jsumo.com/xmotion-robot-controller-4348-69-B.jpg)) |
-| **JSumo ProFast Motors** | High-speed motors for fast movement | ![ProFast Motors]([https://your-github-link.com/path-to-motors-image.jpg](https://www.jsumo.com/profast-12v-3600rpm-fast-gearmotor-4511-16-B.png)) |
-| **Custom 16-Sensor Array** | High-precision line detection system | ![Sensor Array](/media/photos/sensor_bar.jpg) |
-| **Custom Silicone Wheels** | Optimized for durability and grip | ![Silicone Wheel](/media/photos/wheel.jpg) |
-| **Custom Chassis PCB** | Optimized layout for performance & weight balance | ![Chassis PCB](/media/photos/chassis2.jpg) |
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Description</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td><b>JSumo XMotion</b></td>
+    <td>Motor control & processing unit</td>
+    <td><img src="https://www.jsumo.com/xmotion-robot-controller-4348-69-B.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><b>JSumo ProFast Motors</b></td>
+    <td>High-speed motors for fast movement</td>
+    <td><img src="https://www.jsumo.com/profast-12v-3600rpm-fast-gearmotor-4511-16-B.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><b>Custom 16-Sensor Array</b></td>
+    <td>High-precision line detection system</td>
+    <td><img src="/media/photos/sensor_bar.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><b>Custom Silicone Wheels</b></td>
+    <td>Optimized for durability and grip</td>
+    <td><img src="/media/photos/silicone_wheel.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><b>Custom Chassis PCB</b></td>
+    <td>Optimized layout for performance & weight balance</td>
+    <td><img src="/media/photos/chassis2.jpg" width="250"></td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Repository
-🔗 **16 Sensors Bar:** [16 Sensors Bar Repo]([https://github.com/your-github-repo-link](https://github.com/andreipopescufilimon/Line-Follower-16-Sensors-Bar-with-Multiplexor))
+🔗 **16 Sensors Bar Repository:**  
+[Line Follower 16-Sensors Bar with Multiplexor](https://github.com/andreipopescufilimon/Line-Follower-16-Sensors-Bar-with-Multiplexor)
 
 ---
 
@@ -40,4 +68,4 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
 ## 📬 Contact & Contributions
 Want to contribute or have questions? Reach out to us through:
 - **Website:** [HyperLine Robotics](https://hyperlinerobotics.com/)
-- **Email:** hyperlinerobotics@gmail.com
+- **Email:** [hyperlinerobotics@gmail.com](mailto:hyperlinerobotics@gmail.com)
