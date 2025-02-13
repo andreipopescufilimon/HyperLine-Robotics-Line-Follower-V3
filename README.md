@@ -15,6 +15,11 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
 
 ---
 
+## 🎥 Media
+[🎥 **View Video**](media/videos) – Watch the robot in action during the competition
+
+---
+
 ## 🔧 Components Used
 <table>
   <tr>
@@ -69,3 +74,6 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
 Want to contribute or have questions? Reach out to us through:
 - **Website:** [HyperLine Robotics](https://hyperlinerobotics.com/)
 - **Email:** [hyperlinerobotics@gmail.com](mailto:hyperlinerobotics@gmail.com)
+
+A special thanks to **JSumo**, for their invaluable support!
+![JSumo Logo](media/logo/jsumologo.png)
