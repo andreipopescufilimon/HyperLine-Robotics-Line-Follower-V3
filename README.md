@@ -35,7 +35,7 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
   <tr>
     <td><b>Custom 16-Sensor Array</b></td>
     <td>High-precision line detection system</td>
-    <td><img src="/media/photos/sensor_bar.jpg" width="250"></td>
+    <td><img src="/media/photos/sensor_bar.jpg" width="200"></td>
   </tr>
   <tr>
     <td><b>Custom Silicone Wheels</b></td>
