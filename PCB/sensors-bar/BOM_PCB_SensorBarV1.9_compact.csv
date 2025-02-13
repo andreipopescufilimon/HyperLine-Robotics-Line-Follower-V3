@@ -1,0 +1,9 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"QRE1113GR"	"S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16"	"OPTO-SMD_QRE1113GR"	"16"	""	""	"LCSC"	"C232862"	"0.712"
+"2"	"SSOP-24_L8.1-W5.3-P0.65-LS7.8-BL"	"MUX"	"SSOP-24_L8.1-W5.3-P0.65-LS7.8-BL"	"1"	""	""	"LCSC"	"C98457"	"0.477"
+"3"	"0.1u"	"C1"	"C0603"	"1"	""	""	"LCSC"	"C6119867"	"0.002"
+"4"	"FH12-08S-1SH"	"FFC/FPC"	"FPC-SMD_8P-P1.00_FH12S-8S-1SH-55"	"1"	""	""	"LCSC"	"C262755"	"0.122"
+"5"	"47kΩ"	"R1,R3,R5,R7,R9,R11,R13,R15,R17,R19,R21,R23,R25,R27,R29,R31"	"R0603"	"16"	""	""	"LCSC"	"C25819"	"0.001"
+"6"	"220Ω"	"R2,R4,R6,R8,R10,R12,R14,R16,R18,R20,R22,R24,R26,R28,R30,R32"	"R0603"	"16"	""	""	"LCSC"	"C22962"	"0.001"
+"7"	"DIST_S 2.54 1X3"	"D"	"HEADER - HEADER-FEMALE-2.54_1X3"	"1"	""	""	""	""	""
+"8"	"OUT"	"+"	"HEADER - HEADER-FEMALE-2.54_1X8 ANGELO"	"1"	""	""	""	""	""
