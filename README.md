@@ -40,7 +40,7 @@ The **HyperLine Robotics V3** is a high-speed **line follower robot** designed f
   <tr>
     <td><b>Custom Silicone Wheels</b></td>
     <td>Optimized for durability and grip</td>
-    <td><img src="/media/photos/silicone_wheel.jpg" width="250"></td>
+    <td><img src="/media/photos/silicone_wheel.jpeg" width="250"></td>
   </tr>
   <tr>
     <td><b>Custom Chassis PCB</b></td>
