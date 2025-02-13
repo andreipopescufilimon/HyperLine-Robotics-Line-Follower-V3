@@ -1,7 +1,7 @@
 # HyperLine Robotics V3 - Line Follower Robot
 
 <p align="center">
-  <img src="/media/photos/full_robot2.jpg" alt="HyperLine Robotics V3" width="600">
+  <img src="/media/photos/full_robot2.jpg" alt="HyperLine Robotics V3" height="400">
 </p>
 
 ## 🚀 About the Project
