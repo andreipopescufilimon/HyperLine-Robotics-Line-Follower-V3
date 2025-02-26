@@ -4,7 +4,7 @@
 The **JSumo HyperLine Robotics (HLR) V3** is an advanced, high-speed **line follower robot** built for competitions. This version is the result of 3 years of prototyping, optimizing both speed and precision without relying on external downforce like an EDF or impeller. As a member of the **JSumo Team**, I have combined **lightweight engineering, high-speed motors, and custom-built sensors and chassis** to achieve high performance.
 
 <p align="center">
-  <img src="/media/photos/full_robot2.jpg" alt="HyperLine Robotics V3" height="400">
+  <img src="https://github.com/andreipopescufilimon/HyperLine-Robotics-Line-Follower-V3/blob/main/media/photos/full_robot2.jpg" alt="HyperLine Robotics V3" height="400">
 </p>
 
 ### **Key Advantages Over Previous Versions**
