@@ -59,7 +59,8 @@ HyperLine Robotics V3 will be competing in the **Robotics Championship 13th Edit
 
 ## 📂 **Repository & Documentation**
 🔗 **16-Sensor Bar Repository:**  
-[Line Follower 16-Sensors Bar with Multiplexor](https://github.com/andreipopescufilimon/Line-Follower-16-Sensors-Bar-with-Multiplexor)
+[Line Follower 16-Sensors Bar with Multiplexor](https://github.com/andreipopescufilimon/Line-Follower-16-Sensors-Bar-with-Multiplexor) 
+
 🔗 **16-Sensor Bar Library Repository:**  
 [Line Follower 16-Sensors Bar Library](https://github.com/andreipopescufilimon/LF-Sensor-Bar-Library)
 
