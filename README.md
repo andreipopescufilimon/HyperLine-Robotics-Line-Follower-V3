@@ -53,7 +53,7 @@ One of the standout features of HLR V3 is its **custom-designed sensor array**, 
 ## 🏆 **Performance & Upcoming Competitions**
 With these innovations, HyperLine Robotics V3 has achieved performance levels **comparable to heavier EDF-powered robots**. The **perfect balance of speed, weight, and precision** allows it to compete.
 
-HyperLine Robotics V3 will be competing in the **Robotics Championship 13th Edition**, taking place from **May 15 - 17, 2025**. This event serves as the test for its capabilities before the **InfoMatrix Final** the following week. Additionally, I will introduce an innovative **lightweight impeller-powered robot, HLR V4**, expected to reach **4605+mm/sec on average per lap**.
+HyperLine Robotics V3 competed in the **InfoMatrix World Final** where I won with it by over 2sec.
 
 ---
 
